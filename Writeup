@@ -1,0 +1,18 @@
+Sales dashboard is an analysis of E-commerce sales data with total sales to track overall revenue patterns and profits by month to monitor seasonal trends. 
+
+This Dashboard gives a glance report on the company's financial performance. The " sales dashboard" summarizes key metrics, specifically "Total Sales" and "Total Profit." 
+Total Sales Listed as "Sum of Sales" with a total value of 80,23,381 and Total Profit Displays 37,29,903.
+
+In this sales dashboard, it shows a slicer feature. By selecting the 'January' month in the slicer, it will display the corresponding profit and sales data for that specific month." 
+
+It indicates various slicers like product category, by selecting specific month, the pie chart and product wise sales automatically changes, 
+it goes same for regions,by selecting different regions the line graph changes as well as region wise sales chart.
+
+This dashboard displays sales by product category (e.g., Auto & Accessories, Electronics) and regions like Africa, Canada, and the Caribbean which likely helps with geographical performance tracking.
+It Holds detailed transaction-level data, including Order ID, Order Date, Ship Date, Product Category, Sales, Quantity, Discount, and various customer demographics (e.g., City, Region).
+
+This dashboard also contains a percentage wise sales Thermometer Chart which is used to display sales target where it already achieved the target goal of 80% i.e 80,23,381.
+Only 20% is remaining to achieve the target of 1cr.
+
+Overall, the sales dashboard is designed to track e-commerce performance metrics such as sales, profit, and regional or product category.
+It aggregates data as monthly, regional, and category levels, likely feeding into the Dashboard for easy access to key performance indicators. 
